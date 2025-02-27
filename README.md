@@ -1,2 +1,2 @@
 # Repositorio de Autenticações
-Testes de autenticações
+Testes de autenticações do Git
